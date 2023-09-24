@@ -22,4 +22,4 @@ let studendsName = ['Sopna', 'Khadija', 'Riya', 'habiba', 'sadia'];
     // console.log(studendsName);
 
     studendsName.shift()
-    // console.log(studendsName);
+    console.log(studendsName);

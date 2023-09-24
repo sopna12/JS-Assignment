@@ -3,7 +3,9 @@
 //     console.log();
 // }
 
+for ( i = 1 ; i <= 10 ; i++ ){
+    
+    console.log("2*1=" ,i * 2);
+  
 
-for (let i = 0 ; i < 10 ; i++ ){
-    console.log(i + 1);
 }
